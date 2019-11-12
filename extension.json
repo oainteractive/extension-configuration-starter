@@ -4,6 +4,9 @@
     "Candidate": [
       "./dist/field-interactions/candidate/**"
     ],
+    "Client": [
+      "./dist/field-interactions/client/**"
+    ],
     "ClientCorporation": [
       "./dist/field-interactions/client-corporation/**"
     ],
