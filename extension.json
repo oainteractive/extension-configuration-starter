@@ -1,5 +1,5 @@
 {
-  "name": "NAMESPACE-extensions",
+  "name": "oxford-extensions",
   "fieldInteractions": {
     "Candidate": [
       "./dist/field-interactions/candidate/**"
